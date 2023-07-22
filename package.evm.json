@@ -24,3 +24,5 @@
   },
   "homepage": "https://depay.com",
   "private": false,
+  "dependencies": {
+    "@depay/web3-blockchains": "^8.1.1",
