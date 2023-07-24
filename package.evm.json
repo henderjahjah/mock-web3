@@ -27,3 +27,5 @@
   "dependencies": {
     "@depay/web3-blockchains": "^8.1.1",
 "ethers": "^5.7.1"
+  },
+  "peerDependencies": {
