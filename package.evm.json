@@ -31,3 +31,6 @@
   "peerDependencies": {
   },
   "engines": {
+    "node": ">=16"
+  }
+}
