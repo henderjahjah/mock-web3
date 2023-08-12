@@ -32,3 +32,5 @@
   "bugs": {
     "url": "https://github.com/DePayFi/web3-mock/issues"
   },
+  "homepage": "https://depay.com",
+  "private": false,
