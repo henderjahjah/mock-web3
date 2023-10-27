@@ -122,3 +122,4 @@
     "@depay/web3-tokens": "^9.18.0",
     "@playwright/test": "^1.24.0",
     "@rollup/plugin-commonjs": "^18.0.0",
+    "@rollup/plugin-json": "^4.1.0",
