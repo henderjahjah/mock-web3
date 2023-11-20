@@ -6,3 +6,5 @@ const { devices } = require('@playwright/test');
  * https://github.com/motdotla/dotenv
  */
 // require('dotenv').config();
+
+global.fetch = require('node-fetch')
