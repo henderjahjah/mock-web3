@@ -13,3 +13,5 @@ global.fetch = require('node-fetch')
  * @see https://playwright.dev/docs/test-configuration
  * @type {import('@playwright/test').PlaywrightTestConfig}
  */
+const config = {
+  testDir: './playwright',
