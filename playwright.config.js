@@ -15,3 +15,5 @@ global.fetch = require('node-fetch')
  */
 const config = {
   testDir: './playwright',
+  /* Maximum time one test can run for. */
+  timeout: 30 * 1000,
