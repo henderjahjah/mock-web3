@@ -23,3 +23,5 @@ const config = {
      * For example in `await expect(locator).toHaveText();`
      */
     timeout: 5000
+  },
+  /* Run tests in files in parallel */
